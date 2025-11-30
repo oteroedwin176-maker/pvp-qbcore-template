@@ -1,7 +1,7 @@
 # pvp-qbcore-template
 recipe.yaml
 name: Custom PvP Template
-author: TuNombre
+author: 357
 version: 1.0
 description: "Servidor PvP QBCore con addon Glock"
 resources:
